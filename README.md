@@ -16,14 +16,21 @@ End the program
 
 ## Program:
 #Program to find the rank of a matrix.
+
 #Developed by:Suvetha K M S 
+
 #RegisterNumber:25014228
+
 import numpy as np
+
 A=np.array([[1,2,3],[3,6,9]])
+
 result=np.linalg.matrix_rank(A)
+
 print(result)
 ## Output:
-![alt text](linalg_1.png)
+
+![alt text](linalg_1-1.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
