@@ -23,7 +23,7 @@ A=np.array([[1,2,3],[3,6,9]])
 result=np.linalg.matrix_rank(A)
 print(result)
 ## Output:
-![alt text](linalg_2-1.png)
+![alt text](linalg_1.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
